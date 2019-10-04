@@ -1,0 +1,13 @@
+.logo {
+    font-family: 'Cantarell', sans-serif;
+    background-color: blue;
+    color: white ;
+}
+
+.background {
+    background: url("https://www.pexels.com/photo/six-assorted-weight-plates-on-top-of-gray-surface-669577/");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+}
