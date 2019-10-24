@@ -44,3 +44,17 @@
   text-decoration: none;
   background-color: darkolivegreen;
 }
+
+
+/* timetable----------------------------------------- */
+tr {
+  background-color: #F0F0F0;
+}
+
+.table {
+  text-align: center;
+}
+
+.table-success>th {
+    background-color: #a9ccb1;
+}
