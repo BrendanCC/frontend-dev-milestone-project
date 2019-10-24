@@ -1,4 +1,6 @@
 
+
+
 .background {
     
     background-image: url("images/equipment-gym-hard-669577.jpg");
@@ -10,23 +12,35 @@
     min-height: 760px;
 }
 
+.background p {
+  font-size: 25px;
+}
+
 .topline {
     font-size: 40px;
     margin: 0;
 }
 
-.links {
-  color: white;
-}
 
 .logo {
   color: #6d12d2;
   font-family: Cantarell;
   font-size: 2em;
+  background-color: #67882f;
+}
+
+.logo:hover {
+  text-decoration: none;
   background-color: darkolivegreen;
+  color: #6620b3;
 }
 
 .links {
   color: #6d12d2;
+  background-color: #0cc336;
 }
 
+.links:hover {
+  text-decoration: none;
+  background-color: darkolivegreen;
+}
