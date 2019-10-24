@@ -1,5 +1,8 @@
  https://github.com/BrendanCC/frontend-dev-milestone-project.git
  
+ https://brendancc.github.io/frontend-dev-milestone-project/
+ 
+ 
  Project Example Idea 2
  Build a website for a gym
 
