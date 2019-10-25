@@ -58,3 +58,19 @@ tr {
 .table-success>th {
     background-color: #a9ccb1;
 }
+
+/* join form ---------------------------------------- */
+.join-title {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+.callout {
+  font-size: 1.5rem;
+}
